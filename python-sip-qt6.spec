@@ -1,6 +1,6 @@
 Summary:	Tool for creating Python bindings for Qt
 Name:		python-sip-qt6
-Version:	13.5.0
+Version:	13.6.0
 Release:	1
 Group:		Development/Python
 License:	GPLv2+
